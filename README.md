@@ -12,16 +12,16 @@
 ## Preview
 
 ### - PC
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/pc1.png">
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/pc2.png">
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/pc3.png">
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/pc4.png">
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/pc5.png">
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/pc6.png">
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/pc7.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/pc1.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/pc2.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/pc3.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/pc4.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/pc5.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/pc6.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/pc7.png">
 
 
 ### - MOBILE
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/mobile1.png">
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/mobile2.png">
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ve/mobile3.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/mobile1.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/mobile2.png">
+<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_masiveNFT_1st_ver/mobile3.png">
